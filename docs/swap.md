@@ -3,12 +3,17 @@ id: swap
 title: DEUS Swap
 description:
 ---
-Swap is a one-stop-shop to buy or sell the ecosystem’s tokens. This includes: 
-+ $DEUS, 
-+ $DEA, 
-+ Registrar Tokens like TSLQ, QQQ and all 500 Stocks that are inside of the S&P 500.
+Deus Swap is a one-stop shop to buy or sell the ecosystem’s tokens. These include: 
 
-Currently, the only available pair is ETH/DEUS, others shall be added by Dec 27th. 
-DEA will become available sometime in December.
-Registrar tokens will become available towards the end of December.
++ $DEUS 
++ $DEA 
++ $ETH
++ $WBTC
++ $USDC
++ $DAI
++ IOU tokens (like Coinbase futures and Bakkt Synthetic SPAC)
++ Registrar Tokens (like TSLQ, QQQ and all 500 Stocks that are inside of the S&P 500)
+
+
+Registrar tokens will become available towards the end of January, and some IOU tokens are already available.
 We will continue adding derivatives and cryptocurrencies to DEUS Swap throughout 2021.
