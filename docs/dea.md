@@ -5,13 +5,13 @@ description: 'Core DEUS finance team and representatives of the DAO'
 ---
 
 ### DEA can be seen as a Share of the Ecosystem, needed to earn Fees.
-#### There will be more and more Unique usecases created in the future for DEA.
+#### There will be more and more unique usecases created in the future for DEA.
 
 ---
 
-- Fixed supply of 166,670 tokens as [voted](https://t.me/deusfinance/33986) by the community.
-- Can be pooled to provide an exit gateway for Vault stakers and enables you to earn the maximum Fees inside the DEUS ecosystem.
-- Created with a liquidity mining event that ran from October 2020 until middle of January 2021, distributed 110,000 DEA to stakers. 
+- Fixed supply of 166,670 tokens as [voted](https://t.me/deusfinance/33986) by the community
+- Can be pooled to provide an exit gateway for Vault stakers, and enables you to earn the maximum Fees inside the DEUS ecosystem
+- Created with a liquidity mining event that ran from October 2020 until middle of January 2021, distributed 110,000 DEA to stakers
 - Can be bought on [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0x3b62f3820e0b035cc4ad602dece6d796bc325325&outputCurrency=0x80ab141f324c3d6f2b18b030f1c4e95d4d658778) or [DEUS Swap](https://app.deus.finance/swap).
 
 ___
